@@ -81,5 +81,6 @@ Via Web Browser:
 
 - This project was inspired by the need for a simple file upload example.
 - Special thanks to the Node.js and MongoDB communities for their valuable resources and documentation.
+- Special thanks to ChiragMakkar13 https://github.com/ChiragMakkar13?tab=overview&from=2023-12-01&to=2023-12-31 for the valuable resources and documentation.
 
 ---
