@@ -57,6 +57,8 @@ Step-5: Run yoyr project in terminal
    ```bash
    node app.js
    ```
+Step-6:
+Use upload,download,delete.html to run 
 
 **Note- Recommended Version of Node is v18.18.0 or Higher**
 
