@@ -1,7 +1,7 @@
 # File-Upload-Download-Delete
 File Upload to MongoDB with Node.js
 
-This project is a simple Node.js application that allows users to upload PDF files to a MongoDB database. It provides an API for file uploads and serves as a basic example of how to handle file storage and retrieval in a Node.js application.
+This project is a simple Node.js application that allows users to upload download and delete PDF files to a MongoDB database. It provide API for tasks and serves as a basic example of how to handle file storage and retrieval in a Node.js application.
 
 ## Table of Contents
 
@@ -11,8 +11,7 @@ This project is a simple Node.js application that allows users to upload PDF fil
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 4. [Usage](#usage)
-5. [API Endpoints](#api-endpoints)
-6. [Acknowledgments](#acknowledgments)
+5. [Acknowledgments](#acknowledgments)
 
 ## Project Description
 
